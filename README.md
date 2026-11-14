@@ -30,6 +30,38 @@ Mod Manager is an optional [PineLoader](https://github.com/EuroCent82/PineLoader
 
 Glovebox does not need this mod. Without Mod Manager, Glovebox still reads `Config/Glovebox.ini` and still opens on its key.
 
+The pictures are the German game. The labels follow the language of the game.
+
+## Settings
+
+The Mod-Manager tab sits after Keyboard.
+
+<p align="center">
+  <img src="screenshot/settings.png" alt="Game settings, with the Mod-Manager tab after Keyboard" width="720">
+</p>
+
+## The switch
+
+On and off use the same bar as VSync. In German the row reads Handschuhfach.
+
+<p align="center">
+  <img src="screenshot/mod-manager.png" alt="Handschuhfach switched on, with the key row set to K" width="770">
+</p>
+
+Off leaves the saved items where they are.
+
+<p align="center">
+  <img src="screenshot/glovebox-off.png" alt="Handschuhfach switched off" width="770">
+</p>
+
+## Key
+
+The key row uses the game's own key button. Pressing it asks for any key.
+
+<p align="center">
+  <img src="screenshot/rebind-key.png" alt="The game asking for a key" width="720">
+</p>
+
 ## Install
 
 PineLoader has to be installed first. Close the game.
