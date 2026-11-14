@@ -1,0 +1,52 @@
+Mod Manager 1.0.0
+A PineLoader mod for Pionero Capital.
+It turns mods on and off in the game settings.
+The key has its own row.
+
+Author
+  EuroCent82
+  https://github.com/EuroCent82
+
+Site
+  https://pineloader.dev
+
+Releases
+  PineLoader 1.0.1
+  https://github.com/EuroCent82/PineLoader/releases/latest
+
+  Mod Manager 1.0.0
+  https://github.com/EuroCent82/ModManager/releases/latest
+
+Install
+
+Install PineLoader first. Then install Mod Manager.
+
+1. PineLoader
+
+   Download PineLoader 1.0.1:
+   https://github.com/EuroCent82/PineLoader/releases/latest
+
+   The file is PineLoader-1.0.1-win-x64.zip.
+   Unpack it into a folder named PineLoader next to the game.
+   Close the game before adding a mod.
+
+2. Mod Manager
+
+   Download Mod Manager 1.0.0:
+   https://github.com/EuroCent82/ModManager/releases/latest
+
+   The file is ModManager-1.0.0.zip.
+   Copy the ModManager folder from that zip into:
+
+   Pionero Capital\PineLoader\Mods\
+
+   You then have this file:
+
+   PineLoader\Mods\ModManager\ModManager.dll
+
+   Start the game through PineLoader, or press Play in Steam.
+   Open Settings. The Mod-Manager tab sits after Keyboard.
+
+On and off use the same bar as VSync.
+The key is the row under that bar and uses the game's key button.
+Glovebox works without this mod.
