@@ -1,0 +1,18 @@
+Mod Manager 1.0.1
+2026-11-17
+
+A switch for right now writes Running and leaves Enabled as it was.
+A switch for the next start writes Enabled.
+The menu log is Logs\mod-manager.txt.
+The local page sends a token from Cache\mod-manager.token.
+A wrong hash writes nothing. A later failure puts this start's sections back.
+Before the first write of a start, the pak is copied to Cache\mod-manager-pak.bin.
+
+Needs PineLoader 1.0.4.
+The zip is ModManager-1.0.1.zip.
+Copy the ModManager folder into PineLoader\Mods\.
+The zip does not contain a pak. The mod writes the menu when it runs.
+
+1.0.0
+
+The Mod-Manager tab sits after Keyboard.
