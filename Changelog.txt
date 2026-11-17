@@ -1,18 +1,23 @@
-Mod Manager 1.0.1
-2026-11-17
-
-A switch for right now writes Running and leaves Enabled as it was.
-A switch for the next start writes Enabled.
-The menu log is Logs\mod-manager.txt.
-The local page sends a token from Cache\mod-manager.token.
-A wrong hash writes nothing. A later failure puts this start's sections back.
-Before the first write of a start, the pak is copied to Cache\mod-manager-pak.bin.
-
-Needs PineLoader 1.0.4.
-The zip is ModManager-1.0.1.zip.
-Copy the ModManager folder into PineLoader\Mods\.
+[b]Mod Manager 1.0.1[/b]
+Ein Schalter für [b]sofort[/b] schreibt [code]Running[/code] und lässt [code]Enabled[/code], wie es war.
+Ein Schalter für den [b]nächsten Start[/b] schreibt [code]Enabled[/code].
+Das Menü-Log ist [code]Logs\mod-manager.txt[/code].
+Die lokale Seite schickt das Zeichen aus [code]Cache\mod-manager.token[/code].
+Ein falscher Hash schreibt nichts.
+Ein später Fehler legt die Abschnitte dieses Starts zurück.
+Vor dem ersten Schreiben eines Starts wird die Pak nach [code]Cache\mod-manager-pak.bin[/code] kopiert.
+Braucht [b]PineLoader 1.0.4[/b].
+Die ZIP enthält keine Pak. Die Mod schreibt das Menü, wenn sie läuft.
+A switch for [b]right now[/b] writes [code]Running[/code] and leaves [code]Enabled[/code] as it was.
+A switch for the [b]next start[/b] writes [code]Enabled[/code].
+The menu log is [code]Logs\mod-manager.txt[/code].
+The local page sends the token from [code]Cache\mod-manager.token[/code].
+A wrong hash writes nothing.
+A later failure puts this start's sections back.
+Before the first write of a start, the pak is copied to [code]Cache\mod-manager-pak.bin[/code].
+Needs [b]PineLoader 1.0.4[/b].
 The zip does not contain a pak. The mod writes the menu when it runs.
 
-1.0.0
-
-The Mod-Manager tab sits after Keyboard.
+[b]1.0.0[/b]
+Der Reiter [b]Mod-Manager[/b] sitzt hinter [b]Tastatur[/b].
+The [b]Mod-Manager[/b] tab sits after [b]Keyboard[/b].
