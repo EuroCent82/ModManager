@@ -1,3 +1,9 @@
+[b]Mod Manager 1.0.2[/b]
+[b]Zahlenfelder[/b] für Warehouse (Middle/High) und Tuition im Menü. Menüaufbau bereinigt (Schreibtisch-Schritt blockiert den Katalog nicht mehr). Robusterer Pak-Patch und Fehleranzeige bei Hook-Mismatches.
+[b]Numeric fields[/b] for Warehouse (Middle/High) and Tuition in the settings menu. Cleaned up menu generation (desk step no longer blocks catalog). More robust pak patching and error reporting for hook mismatches.
+Braucht [b]PineLoader 1.1.0-alpha[/b].
+Needs [b]PineLoader 1.1.0-alpha[/b].
+
 [b]Mod Manager 1.0.1[/b]
 Ein Schalter für [b]sofort[/b] schreibt [code]Running[/code] und lässt [code]Enabled[/code], wie es war.
 Ein Schalter für den [b]nächsten Start[/b] schreibt [code]Enabled[/code].
