@@ -19,15 +19,14 @@
   <a href="https://github.com/EuroCent82/ModManager"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EuroCent82%2FModManager-245C48?style=flat-square"></a>
   <a href="https://pineloader.dev"><img alt="pineloader.dev" src="https://img.shields.io/badge/site-pineloader.dev-D5B41A?style=flat-square"></a>
   <a href="LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/license-Apache%202.0-D5B41A?style=flat-square"></a>
-  <a href="https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha"><img alt="PineLoader 1.1.0-alpha" src="https://img.shields.io/badge/PineLoader-1.1.0--alpha-04221a?style=flat-square"></a>
   <img alt="Version 1.0.2" src="https://img.shields.io/badge/version-1.0.2-245C48?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://github.com/EuroCent82/ModManager/releases/tag/v1.0.2"><img alt="Download 1.0.2" src="https://img.shields.io/badge/download-1.0.2-D5B41A?style=flat-square"></a>
+  <a href="https://github.com/EuroCent82/ModManager/releases/latest"><img alt="Download 1.0.2" src="https://img.shields.io/badge/download-1.0.2-D5B41A?style=flat-square"></a>
 </p>
 
-Mod Manager is an optional [PineLoader 1.1.0-alpha](https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha) mod for Pionero Capital. It adds a **Mod-Manager** tab after Keyboard in the game's settings. Each loaded mod gets the same on/off bar the game uses for VSync, and a second row for its key. That key row uses the game's own key button.
+Mod Manager is an optional [PineLoader](https://github.com/EuroCent82/PineLoader) mod for Pionero Capital. It adds a **Mod-Manager** tab after Keyboard in the game's settings. Each loaded mod gets the same on/off bar the game uses for VSync, and a second row for its key. That key row uses the game's own key button.
 
 Glovebox does not need this mod. Without Mod Manager, Glovebox still reads `Config/Glovebox.ini` and still opens on its key.
 
@@ -65,9 +64,9 @@ The key row uses the game's own key button. Pressing it asks for any key.
 
 ## Install
 
-PineLoader 1.1.0-alpha has to be installed first. Close the game.
+PineLoader has to be installed first. Close the game.
 
-1. Download [Mod Manager 1.0.2](https://github.com/EuroCent82/ModManager/releases/tag/v1.0.2). The file is `ModManager-1.0.2.zip`.
+1. Download [Mod Manager 1.0.2](https://github.com/EuroCent82/ModManager/releases/latest). The file is `ModManager-1.0.2.zip`.
 2. Copy the `ModManager` folder from that zip into `PineLoader/Mods`. The folder needs `ModManager.dll`.
 3. Start the game from Steam.
 4. Open Settings. The new tab sits after Keyboard.
